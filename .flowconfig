@@ -1,0 +1,3 @@
+[options]
+module.name_mapper='^\(core\|login\)\(\/\)?\(.*\)$' -> '<PROJECT_ROOT>/app/\1\2\3'
+
